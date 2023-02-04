@@ -1,0 +1,23 @@
+Atributos de Etiquetas
+
+Los atributos de las etiquetas HTML son valores adicionales que se pueden especificar dentro 
+de una etiqueta para proporcionar información adicional o controlar su comportamiento. 
+Por ejemplo, la etiqueta <img> puede tener un atributo "src" que especifica la ubicación del 
+archivo de imagen a mostrar.
+
+Los atributos se especifican dentro de la etiqueta, en la forma nombre="valor". Algunos 
+atributos comunes incluyen "class", "id", "src", "alt", "href", entre otros.
+
+Aquí hay un ejemplo de una etiqueta HTML con atributos:
+
+<img src="mi-imagen.jpg" alt="Mi imagen">
+
+En este ejemplo, la etiqueta <img> tiene dos atributos: "src" y "alt". El atributo "src" 
+especifica la ubicación del archivo de imagen a mostrar y el atributo "alt" especifica una 
+descripción de la imagen para personas con discapacidad visual o para navegadores que no pueden 
+mostrar imágenes.
+
+Los atributos pueden ser específicos de ciertas etiquetas y pueden tener diferentes valores 
+permitidos, dependiendo de la etiqueta y el uso que se le quiera dar. Por lo tanto, es importante 
+leer la documentación o la especificación de HTML para entender los atributos permitidos y su 
+comportamiento para cada etiqueta en particular.

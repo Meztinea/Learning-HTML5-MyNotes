@@ -1,0 +1,13 @@
+Index
+
+"Index" es un término comúnmente utilizado como nombre de archivo por convención en la 
+programación, especialmente en el desarrollo de sitios web. En un sitio web, el archivo 
+"index" suele ser la página de inicio o la página principal que se muestra cuando se 
+accede a un directorio en el servidor. Por ejemplo, si un usuario accede a 
+http://www.ejemplo.com, el navegador buscará automáticamente un archivo llamado 
+"index.html" en el directorio raíz y lo mostrará como la página principal del sitio.
+
+Además, el uso del nombre "index" es una buena práctica porque es fácil de recordar y 
+está estandarizado en la industria, lo que facilita la gestión de los archivos y la 
+navegación en el sitio. Por lo tanto, utilizar "index" como nombre de archivo ayuda a 
+mantener la organización y la claridad en el desarrollo de un sitio web.

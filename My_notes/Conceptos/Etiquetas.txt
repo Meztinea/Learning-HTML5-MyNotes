@@ -1,0 +1,10 @@
+Etiquetas
+
+Las etiquetas en HTML son un conjunto de instrucciones que se utilizan para describir el 
+contenido y la estructura de una página web. Cada etiqueta tiene un propósito específico 
+y está rodeada por corchetes angulares (< >). Por ejemplo, la etiqueta <p> se utiliza para 
+definir un párrafo y la etiqueta <h1> se utiliza para definir un encabezado de nivel 1. 
+Las etiquetas se combinan para crear una estructura completa para la página web. Algunas 
+etiquetas comunes incluyen: <html>, <head>, <body>, <header>, <nav>, <main>, <section>, 
+<article>, <aside>, <footer>, <h1>-<h6>, <p>, <a>, <img>, <ul>, <ol>, <li>, <table>, entre 
+otras.

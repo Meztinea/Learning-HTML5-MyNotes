@@ -1,0 +1,22 @@
+DOCTYPE
+
+DOCTYPE es una instrucción de documento en HTML que especifica el tipo de documento y la 
+versión de HTML que se está utilizando. Es una de las primeras líneas en un archivo HTML 
+y se utiliza para informar a los navegadores web y a los validadores de código acerca de 
+la versión de HTML que se está utilizando y cómo debería ser interpretada la página.
+
+Aquí hay un ejemplo de la declaración DOCTYPE para HTML5:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Página Web</title>
+</head>
+<body>
+  <!-- Aquí va el contenido de la página -->
+</body>
+</html>
+
+En este ejemplo, la declaración DOCTYPE especifica que la página está escrita en HTML5, la 
+versión más reciente de HTML. Esto permite a los navegadores y a los validadores de código 
+interpretar correctamente el contenido de la página.

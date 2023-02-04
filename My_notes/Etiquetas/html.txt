@@ -1,0 +1,24 @@
+Etiqueta html
+
+La etiqueta <html> es una etiqueta en HTML que delimita el inicio y el final de un documento 
+HTML. Todo el contenido de una página web debe estar dentro de esta etiqueta.
+
+La estructura básica de un documento HTML se ve así:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Aquí va la información sobre la página -->
+</head>
+<body>
+  <!-- Aquí va el contenido visible de la página -->
+</body>
+</html>
+
+En este ejemplo, la etiqueta <html> delimita el inicio y el final del documento HTML. Dentro 
+de la etiqueta <html>, encontramos las etiquetas <head> y <body>, que contienen información 
+sobre la página y su contenido visible, respectivamente.
+
+Es importante asegurarse de que todas las etiquetas HTML estén correctamente anidadas y 
+cerradas, para que el código sea válido y los navegadores puedan interpretar correctamente 
+el contenido de la página.

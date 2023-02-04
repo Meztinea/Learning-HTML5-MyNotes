@@ -1,0 +1,30 @@
+Etiquetas h1 - h6
+
+La etiqueta <h1> en HTML es una etiqueta de encabezado de nivel 1. Se utiliza para delimitar el 
+texto que se quiere mostrar como un encabezado principal en una página web. Los encabezados son 
+importantes para estructurar y organizar el contenido de una página web, y se utilizan para crear 
+una jerarquía de información.
+
+Los encabezados en HTML van desde <h1> hasta <h6>, siendo <h1> el encabezado más grande y <h6> 
+el más pequeño. Es recomendable utilizar <h1> solo una vez en una página, para identificar el 
+título principal, y luego utilizar los encabezados de nivel inferior para dividir el contenido 
+en secciones secundarias.
+
+Aquí hay un ejemplo de código HTML que utiliza la etiqueta <h1>:
+
+Ejemplo de etiqueta h1:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ejemplo de la etiqueta h1</title>
+</head>
+<body>
+  <h1>Título Principal</h1>
+  <p>Este es un párrafo de texto que sigue al título principal.</p>
+</body>
+</html>
+
+En este ejemplo, el texto delimitado por la etiqueta <h1> se mostrará como un encabezado de 
+nivel 1 en la página web. Será el encabezado más grande de la página y se utilizará para 
+identificar el título principal de la página.

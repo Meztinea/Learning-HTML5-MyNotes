@@ -1,0 +1,13 @@
+HTML
+
+HTML es un lenguaje de marcado que se utiliza para describir la estructura y contenido de 
+una página web. Las siglas HTML significan Hypertext Markup Language, que en español significa 
+Lenguaje de marcado de hipertexto. HTML permite crear estructuras básicas como encabezados, 
+párrafos, listas, enlaces, imágenes, y mucho más para mostrar en un navegador web.
+
+HTML se utiliza para crear documentos estructurados que se muestran en la web. Sirve como 
+base para el desarrollo de sitios web, y permite describir la estructura y contenido de una 
+página, es decir, define cómo se organiza y presenta el texto, las imágenes, los enlaces y 
+otros elementos en una página web. Además, permite hacer la página más accesible y fácil de 
+usar para personas con discapacidades y para los motores de búsqueda. En resumen, HTML es 
+una herramienta esencial para la creación de páginas web y su presentación en la web.

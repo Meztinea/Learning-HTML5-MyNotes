@@ -1,0 +1,26 @@
+Etiqueta p
+
+La etiqueta <p> en HTML representa un párrafo de texto. Se utiliza para delimitar un bloque de 
+texto que está destinado a ser leído como un párrafo completo. Cualquier texto que se coloque 
+dentro de las etiquetas <p> y </p> será formateado como un párrafo, con un espacio en blanco 
+antes y después de él. Aquí hay un ejemplo de código HTML que utiliza la etiqueta <p>:
+
+<p>Este es un párrafo de texto.</p>
+<p>Este es otro párrafo de texto.</p>
+
+En este ejemplo, dos bloques de texto se delimitan como párrafos separados mediante la etiqueta 
+<p>. El navegador mostrará cada uno de estos párrafos como un bloque separado de texto con un 
+espacio en blanco antes y después de él.
+
+Ejemplo de párrafo:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ejemplo de la etiqueta p</title>
+</head>
+<body>
+  <p>Este es un párrafo de texto. Aquí puedes incluir cualquier información que quieras presentar en forma de párrafo, como descripciones, textos narrativos, etc.</p>
+  <p>Este es otro párrafo de texto. Puedes utilizar varios párrafos en una misma página para separar y organizar la información de manera clara y fácil de leer.</p>
+</body>
+</html>

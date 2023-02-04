@@ -1,0 +1,22 @@
+Etiqueta body
+
+La etiqueta <body> en HTML es una sección de un documento HTML que contiene todo el contenido 
+visible de la página web. Desde texto, imágenes, enlaces, formularios, y otros elementos HTML 
+se encuentran dentro de la etiqueta <body>.
+
+Aquí hay un ejemplo de una sección <body> de un documento HTML:
+
+<body>
+  <h1>Bienvenido a mi página web</h1>
+  <p>Este es un ejemplo de contenido en la página web</p>
+  <a href="https://www.ejemplo.com">Un enlace a otra página</a>
+  <img src="mi-imagen.jpg" alt="Mi imagen">
+</body>
+
+En este ejemplo, la etiqueta <h1> define un encabezado de nivel 1, que es un título importante 
+en la página web. La etiqueta <p> define un párrafo de texto y la etiqueta <a> define un enlace 
+a otra página web. La etiqueta <img> permite mostrar una imagen en la página web.
+
+Es importante destacar que todo lo que se encuentra dentro de la etiqueta <body> será visible 
+para los usuarios finales y es una parte importante de la experiencia de navegación en una 
+página web.

@@ -1,0 +1,36 @@
+Etiqueta title
+
+La etiqueta <title> en HTML es una de las etiquetas más importantes en un documento HTML. Se 
+encuentra en la sección <head> del documento y es la primera etiqueta que se ve en el 
+navegador después de la URL en la pestaña del navegador. La etiqueta <title> especifica el 
+título de la página web y es importante por varias razones:
+
+* Es utilizado por los motores de búsqueda como parte de la información de la página que aparece 
+en los resultados de búsqueda.
+
+* Es visible en la pestaña del navegador y puede ser útil para identificar la página que se 
+está visualizando.
+
+* Puede ser utilizado por los navegadores y los servicios de bookmark para identificar la página 
+y guardarla como un favorito.
+
+En resumen, la etiqueta <title> es esencial para la optimización de motores de búsqueda (SEO), 
+la usabilidad y la accesibilidad de un sitio web, por lo que es importante incluir un título 
+relevante y descriptivo en cada página.
+
+Ejemplo de la etiqueta title.
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Título de la Página Web</title>
+</head>
+<body>
+  <!-- Aquí va el contenido de la página -->
+</body>
+</html>
+
+En este ejemplo, la etiqueta <title> se encuentra dentro de la sección <head> y especifica el 
+título de la página web como "Título de la Página Web". Este título aparecerá en la pestaña del 
+navegador y en los resultados de búsqueda, y será utilizado por los navegadores y los servicios 
+de bookmark para identificar la página y guardarla como un favorito.

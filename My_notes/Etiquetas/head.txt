@@ -1,0 +1,23 @@
+Etiqueta head
+
+La etiqueta <head> en HTML es una sección de un documento HTML que contiene información sobre 
+la página, pero no se muestra en el contenido visible de la página. Esta sección incluye 
+información como el título de la página, que aparece en la pestaña del navegador, y los 
+metadatos, como las palabras clave y la descripción, que se utilizan para mejorar el SEO de 
+la página.
+
+Aquí hay un ejemplo de una sección <head> de un documento HTML:
+
+<head>
+  <title>Mi Página Web</title>
+  <meta name="description" content="Esta es mi página web personal">
+  <meta name="keywords" content="mi página, personal, HTML">
+</head>
+
+En este ejemplo, la etiqueta <title> especifica el título de la página, que aparecerá en la 
+pestaña del navegador. Las etiquetas <meta> proporcionan información adicional sobre la página, 
+incluida la descripción y las palabras clave, que se utilizan para mejorar el SEO de la página.
+
+Es importante notar que todo lo que se encuentra dentro de la etiqueta <head> no es visible 
+para los usuarios finales, pero es esencial para la correcta interpretación y visualización 
+de la página por parte de los navegadores web.
