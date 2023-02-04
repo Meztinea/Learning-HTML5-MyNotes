@@ -1,0 +1,18 @@
+Atributos de la etiqueta html
+
+Los atributos más comunes de la etiqueta HTML en HTML incluyen:
+
+"lang": Este atributo se utiliza para especificar el idioma de los contenidos de la 
+página web.
+
+"manifest": Este atributo se utiliza para especificar la ubicación de un archivo de 
+manifiesto que describe la aplicación web.
+
+"xmlns": Este atributo se utiliza para especificar el espacio de nombres XML asociado 
+con la página web.
+
+Estos atributos se utilizan para proporcionar información adicional sobre la estructura 
+y los contenidos de la página web, y son compatibles con la mayoría de los navegadores 
+modernos. Es importante tener en cuenta que algunos de estos atributos pueden ser 
+necesarios para asegurar la compatibilidad con los estándares web y para garantizar una 
+experiencia de usuario óptima en diferentes dispositivos y navegadores.

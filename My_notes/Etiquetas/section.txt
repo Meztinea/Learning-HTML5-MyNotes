@@ -1,0 +1,33 @@
+Etiqueta section
+
+La etiqueta "section" en HTML representa una sección temática dentro de un documento HTML, 
+y se utiliza para agrupar contenido relacionado. Por ejemplo, puedes utilizar la etiqueta 
+"section" para separar diferentes secciones de un artículo o una página web, como la 
+introducción, el cuerpo principal y la conclusión. La etiqueta "section" se usa junto con 
+otros elementos HTML como títulos, párrafos y listas para proporcionar estructura y 
+significado al contenido. La etiqueta "section" es un elemento de bloque que ocupa todo el 
+ancho disponible.
+
+<section>
+  <h2>Introducción</h2>
+  <p>Bienvenido a mi sitio web. En esta sección, te contaré un poco sobre mí y lo que esperas encontrar en este sitio.</p>
+</section>
+
+<section>
+  <h2>Cuerpo principal</h2>
+  <p>Este es el cuerpo principal de mi sitio web. Aquí encontrarás más información sobre mis proyectos y logros.</p>
+  <ul>
+    <li>Proyecto 1</li>
+    <li>Proyecto 2</li>
+    <li>Proyecto 3</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Conclusión</h2>
+  <p>Gracias por visitar mi sitio web. Espero que hayas disfrutado de la información que te he proporcionado.</p>
+</section>
+
+En este ejemplo, se usa la etiqueta "section" para separar el contenido en tres secciones: 
+introducción, cuerpo principal y conclusión. Además, se utiliza un título (h2) para identificar 
+cada sección y un párrafo para describir el contenido.

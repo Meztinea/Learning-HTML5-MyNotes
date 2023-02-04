@@ -1,0 +1,10 @@
+Atributos de la etiqueta nav
+
+La etiqueta "nav" en HTML5 no tiene atributos específicos, ya que su función es simplemente 
+proporcionar un contenedor para los enlaces de navegación. Sin embargo, los elementos dentro 
+de la etiqueta "nav" pueden tener atributos, como los enlaces o los elementos de formato, 
+que se describen en otras etiquetas.
+
+Algunos de los atributos comúnmente utilizados en los elementos dentro de la etiqueta "nav" 
+incluyen "id", "class", "style" y "href". Estos atributos permiten especificar información 
+adicional sobre los enlaces, como la dirección a la que deben llevar y cómo deben presentarse.

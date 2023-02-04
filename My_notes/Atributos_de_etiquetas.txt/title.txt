@@ -1,0 +1,12 @@
+Atributos de la etiqueta title
+
+La etiqueta "title" en HTML no tiene atributos específicos. Simplemente proporciona un título 
+para la página web que se mostrará en la pestaña del navegador o en los resultados de búsqueda. 
+La sintaxis básica es:
+
+<head>
+  <title>Título de la página</title>
+</head>
+
+Es importante que cada página web tenga un título único y descriptivo para mejorar la 
+experiencia del usuario y la optimización para motores de búsqueda (SEO).

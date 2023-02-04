@@ -1,0 +1,19 @@
+Atributos de las etiquetas h1 -- h6
+
+Los atributos más comunes de la etiqueta h1 en HTML incluyen:
+
+"align": Este atributo se utiliza para especificar la alineación del texto dentro de la 
+etiqueta h1.
+
+"style": Este atributo se utiliza para especificar los estilos CSS para la etiqueta h1.
+
+"class": Este atributo se utiliza para asignar una clase CSS a la etiqueta h1.
+
+"id": Este atributo se utiliza para asignar un identificador único a la etiqueta h1 para 
+su uso en selectores CSS y JavaScript.
+
+Estos atributos son compatibles con la mayoría de los navegadores modernos, y se pueden 
+utilizar para personalizar la apariencia y el comportamiento de la etiqueta h1 en la 
+página web. Sin embargo, es importante tener en cuenta que muchos de estos atributos se 
+consideran obsoletos y se recomienda utilizar estilos CSS para controlar la apariencia 
+de la página.

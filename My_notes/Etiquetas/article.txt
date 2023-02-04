@@ -1,0 +1,18 @@
+Etiqueta article
+
+La etiqueta article es un elemento semántico que se utiliza para representar contenido autónomo 
+y significativo dentro de una página web. Este contenido puede ser una noticia, una entrada de 
+blog, una revisión de productos, una publicación en un foro, una descripción de un evento, etc.
+
+El contenido dentro de un elemento article es autónomo en el sentido de que puede ser 
+compartido, reutilizado y distribuido por separado del resto de la página web. Además, el 
+contenido dentro de un article debe ser significativo y debería tener sentido por sí solo, 
+sin la necesidad de depender del resto de la página web para ser comprendido.
+
+La etiqueta article es un elemento bloque que ocupa todo el ancho disponible y puede contener 
+otros elementos HTML como encabezados, párrafos, listas, imágenes, tablas, etc.
+
+El uso de la etiqueta article ayuda a mejorar la estructura y la accesibilidad de una página 
+web, ya que permite a los desarrolladores web especificar de manera clara qué contenido es 
+importante y autónomo. Además, también puede mejorar la experiencia del usuario, ya que facilita 
+la identificación y el filtrado de contenido relevante.

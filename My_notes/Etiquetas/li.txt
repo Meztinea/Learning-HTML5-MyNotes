@@ -1,0 +1,17 @@
+Etiqueta li
+
+La etiqueta "li" es una etiqueta de lista en HTML. Se utiliza para representar cada elemento de 
+una lista, ya sea una lista desordenada o una lista ordenada.
+
+El contenido dentro de la etiqueta "li" se mostrará como un elemento de la lista, y puede ser 
+cualquier tipo de contenido, como texto, imágenes, vínculos o incluso otras listas.
+
+Por ejemplo, aquí hay un ejemplo de una lista desordenada en HTML:
+
+<ul>
+  <li>Manzanas</li>
+  <li>Plátanos</li>
+  <li>Peras</li>
+</ul>
+
+Esto se mostrará como una lista en el navegador, con cada elemento de la lista precedido por un punto.

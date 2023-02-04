@@ -1,0 +1,8 @@
+Etiqueta time
+
+La etiqueta <time> en HTML es una forma de representar una fecha o hora en el contenido 
+de una página web. Algunos de los atributos que puede tener son:
+
+Esta etiqueta es útil para mejorar la accesibilidad y la indexación del contenido por 
+parte de los buscadores y dispositivos. Además, permite a los desarrolladores especificar 
+fechas de manera estandarizada, lo que facilita su uso en scripts y aplicaciones.

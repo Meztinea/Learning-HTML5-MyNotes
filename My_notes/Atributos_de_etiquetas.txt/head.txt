@@ -1,0 +1,14 @@
+Atributos de la etiqueta head
+
+Los atributos más comunes de la etiqueta head en HTML incluyen:
+
+"profile": Este atributo se utiliza para especificar la ubicación de un perfil HTML que 
+contiene información sobre los metadatos de la página.
+
+"manifest": Este atributo se utiliza para especificar la ubicación de un archivo de 
+manifiesto que describe la aplicación web.
+
+Estos atributos son compatibles con algunos navegadores modernos y se utilizan en 
+aplicaciones web y sitios web progresivos (PWA). Sin embargo, es importante tener en 
+cuenta que estos atributos son menos comunes que otros elementos y etiquetas dentro de 
+la etiqueta head, como títulos, enlaces a hojas de estilo y metadatos.

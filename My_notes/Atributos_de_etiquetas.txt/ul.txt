@@ -1,0 +1,18 @@
+Atributos de la etiqueta nav
+
+Los atributos más comunes de la etiqueta "ul" en HTML incluyen:
+
+type: Especifica el tipo de viñeta o punto que se utilizará para marcar cada elemento de 
+la lista.
+
+style: Permite a los desarrolladores definir estilos CSS personalizados para la lista, 
+como el color, el tamaño o el tipo de fuente.
+
+class: Referencia una clase CSS que se puede aplicar a la lista.
+
+id: Identifica de forma única la lista, permitiendo a los desarrolladores aplicar estilos 
+específicos a ella.
+
+Estos atributos son opcionales y no son necesarios para crear una lista desordenada. Sin 
+embargo, a veces es útil utilizarlos para personalizar la apariencia o comportamiento de 
+la lista en la página web.

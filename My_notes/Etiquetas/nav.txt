@@ -1,0 +1,23 @@
+Etiqueta nav
+
+La etiqueta "nav" es un elemento en HTML que representa una sección de una página que contiene 
+enlaces de navegación, es decir, enlaces que llevan a otras páginas o a secciones dentro de la 
+misma página.
+
+La etiqueta "nav" se utiliza para identificar y separar los enlaces de navegación dentro de un 
+documento HTML y su contenido se representa generalmente en la parte superior o lateral de la 
+página.
+
+Aquí hay un ejemplo de código HTML que utiliza la etiqueta "nav":
+
+<nav>
+  <ul>
+    <li><a href="#">Inicio</a></li>
+    <li><a href="#">Acerca de</a></li>
+    <li><a href="#">Contacto</a></li>
+  </ul>
+</nav>
+
+En este ejemplo, la etiqueta "nav" contiene una lista desordenada "ul" que contiene los enlaces 
+de navegación. Esta sección se utiliza para permitir a los usuarios navegar por la página o 
+sitio web.

@@ -1,0 +1,18 @@
+Etiqueta nav
+
+La etiqueta "ul" en HTML es una lista sin numeración (desordenada), que permite a los 
+desarrolladores crear una lista de items con viñetas o puntos. Cada elemento de la lista 
+se marca con una etiqueta "li".
+
+Por ejemplo, una lista de ingredientes para una receta, una lista de características de 
+un producto, o una lista de puntos clave en una presentación, pueden incluirse dentro 
+de una etiqueta "ul".
+
+La etiqueta "ul" es un elemento de contenido de bloque, lo que significa que ocupa todo 
+el ancho disponible de su contenedor y crea un nuevo bloque en la página. También es 
+posible aplicar estilos CSS a una lista desordenada, como cambiar el tipo de viñeta o 
+el color de los puntos.
+
+En resumen, la etiqueta "ul" es una herramienta útil para organizar y presentar información 
+en una forma clara y fácil de leer, y permite a los desarrolladores crear listas de 
+elementos con viñetas o puntos.

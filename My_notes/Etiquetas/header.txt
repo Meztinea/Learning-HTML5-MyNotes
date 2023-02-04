@@ -1,0 +1,25 @@
+Etiqueta header
+
+La etiqueta "header" es un elemento en HTML que representa un contenedor para un conjunto 
+de recursos de encabezado de un documento o sección. Estos recursos pueden incluir el 
+título de la página, información de autor, logotipos, enlaces, entre otros.
+
+La etiqueta "header" se utiliza para definir la sección de encabezado de un documento o 
+sección y su contenido se representa generalmente en la parte superior de la página.
+
+Aquí hay un ejemplo de código HTML que utiliza la etiqueta "header":
+
+<header>
+  <h1>Título de la página</h1>
+  <nav>
+    <ul>
+      <li><a href="#">Inicio</a></li>
+      <li><a href="#">Acerca de</a></li>
+      <li><a href="#">Contacto</a></li>
+    </ul>
+  </nav>
+</header>
+
+En este ejemplo, la etiqueta "header" contiene un título de página "h1" y una navegación 
+"nav". Esta sección se utiliza para mostrar información importante en la parte superior 
+de la página.

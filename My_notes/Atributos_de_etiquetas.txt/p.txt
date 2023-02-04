@@ -1,0 +1,18 @@
+Atributos de la etiqueta p
+
+Los atributos más comunes de la etiqueta p en HTML incluyen:
+
+"align": Este atributo se utiliza para especificar la alineación del texto dentro del párrafo.
+
+"class": Este atributo se utiliza para especificar la clase CSS asociada con el párrafo, lo que 
+permite aplicar estilos específicos a un grupo de elementos similares.
+
+"id": Este atributo se utiliza para especificar un identificador único para el párrafo, lo que 
+permite aplicar estilos a un elemento específico.
+
+"style": Este atributo se utiliza para especificar estilos inline directamente en el párrafo.
+
+Estos atributos se utilizan para controlar la apariencia y la disposición de los párrafos en una 
+página web, y son compatibles con la mayoría de los navegadores modernos. Por ejemplo, el atributo 
+"align" se utiliza para alinear el texto a la izquierda, derecha o al centro, mientras que el 
+atributo "class" y "id" se utilizan para aplicar estilos a los párrafos con mayor control.

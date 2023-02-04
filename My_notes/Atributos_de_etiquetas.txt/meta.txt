@@ -1,0 +1,22 @@
+Atributos de la etiqueta meta
+
+Los atributos más comunes de la etiqueta meta en HTML incluyen:
+
+"charset": Este atributo se utiliza para especificar la codificación de caracteres utilizada 
+en la página web.
+
+"name": Este atributo se utiliza para especificar el nombre o el tipo de metadato que se está 
+proporcionando.
+
+"content": Este atributo se utiliza para especificar el contenido o el valor asociado con el 
+metadato especificado en el atributo "name".
+
+"http-equiv": Este atributo se utiliza para especificar una cabecera HTTP que se debe enviar 
+junto con la página web.
+
+Estos atributos se utilizan para proporcionar información adicional sobre la página web a los 
+motores de búsqueda y a los navegadores, y son esenciales para optimizar la experiencia de 
+usuario y la compatibilidad con los estándares web. Por ejemplo, la etiqueta meta "charset" es 
+esencial para garantizar que los caracteres se muestren correctamente en todos los navegadores, 
+mientras que la etiqueta meta "name" y "content" se utilizan para proporcionar información 
+sobre el contenido de la página, como la descripción o las palabras clave.

@@ -1,0 +1,27 @@
+La etiqueta meta en HTML es un elemento que se utiliza para proporcionar información adicional 
+sobre una página web, especialmente para los motores de búsqueda y para los navegadores web. 
+La etiqueta meta se coloca en el head de la página, y puede incluir información como la 
+descripción de la página, las palabras clave para los motores de búsqueda, la codificación de 
+caracteres utilizada en la página, y otros metadatos.
+
+Algunos de los atributos más comunes de la etiqueta meta incluyen:
+
+"name": Este atributo se utiliza para especificar el nombre o la categoría de la información 
+proporcionada por la etiqueta meta.
+
+"content": Este atributo se utiliza para especificar el contenido o el valor de la información 
+proporcionada por la etiqueta meta.
+
+"http-equiv": Este atributo se utiliza para proporcionar información sobre la página a los 
+navegadores web, como la codificación de caracteres utilizada en la página.
+
+En resumen, la etiqueta meta en HTML es una herramienta útil que permite proporcionar información 
+adicional sobre una página web, lo que puede mejorar la experiencia del usuario y optimizar la 
+página para los motores de búsqueda.
+
+La etiqueta "meta" en HTML no tiene una etiqueta de cierre. Es una etiqueta de auto-cierre, lo que 
+significa que no requiere una etiqueta de cierre como "/>". La sintaxis básica es:
+
+<meta name="description" content="Esta es una página web de ejemplo">
+<meta name="keywords" content="ejemplo, página web, HTML">
+<meta charset="UTF-8">

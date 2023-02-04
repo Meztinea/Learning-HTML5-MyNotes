@@ -1,0 +1,17 @@
+Atributos de la etiqueta body 
+
+Los atributos más comunes de la etiqueta body en HTML incluyen:
+
+"bgcolor": Este atributo se utiliza para especificar el color de fondo de la página.
+
+"text": Este atributo se utiliza para especificar el color del texto en la página.
+
+"link": Este atributo se utiliza para especificar el color de los enlaces no visitados en la página.
+
+"vlink": Este atributo se utiliza para especificar el color de los enlaces visitados en la página.
+
+"alink": Este atributo se utiliza para especificar el color de los enlaces activos en la página.
+
+Estos atributos se consideran obsoletos y no se recomiendan para su uso en HTML5, ya que se recomienda 
+utilizar estilos CSS para controlar la apariencia de la página en lugar de atributos HTML. Sin embargo, 
+todavía pueden ser compatibles con algunos navegadores antiguos.

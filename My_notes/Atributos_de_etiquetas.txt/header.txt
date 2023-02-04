@@ -1,0 +1,6 @@
+Atributos de la etiqueta header
+
+La etiqueta "header" en HTML5 no tiene atributos específicos, ya que su función es 
+simplemente proporcionar un contenedor para los elementos de encabezado de una página 
+o sección. Sin embargo, los elementos dentro de la etiqueta "header" pueden tener 
+atributos, como los enlaces o los elementos de formato, que se describen en otras etiquetas.

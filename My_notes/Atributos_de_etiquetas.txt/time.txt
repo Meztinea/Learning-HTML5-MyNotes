@@ -1,0 +1,16 @@
+Atributos de la etiqueta time
+
+Los atributos que puede tener la etiqueta <time> en HTML son:
+
+* datetime: especifica la fecha y hora en un formato estándar.
+* pubdate: indica si la fecha especificada en datetime es la fecha de publicación del contenido.
+* class: permite aplicar estilos CSS a la etiqueta.
+* id: es un identificador único para la etiqueta, lo que permite aplicar estilos CSS y realizar 
+    acciones mediante JavaScript.
+* style: permite aplicar estilos CSS en línea.
+* title: especifica un título adicional para la etiqueta, que puede ser utilizado como descripción 
+    para herramientas de accesibilidad.
+* accesskey: especifica una tecla de acceso rápido para la etiqueta.
+
+Estos son los atributos más comunes de la etiqueta <time> en HTML. Sin embargo, puede haber más 
+atributos dependiendo de la versión de HTML y las extensiones utilizadas.

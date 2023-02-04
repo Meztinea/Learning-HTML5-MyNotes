@@ -1,0 +1,17 @@
+Atributos de la etiqueta section
+
+La etiqueta section en HTML es un elemento que se utiliza para representar una sección 
+temática dentro de un documento HTML, y permite agrupar contenido relacionado.
+
+Algunos de los atributos más comunes que se utilizan con la etiqueta section son:
+
+id: permite identificar de forma única una sección dentro de un documento HTML.
+
+class: permite aplicar estilos CSS a una sección específica.
+
+style: permite aplicar estilos CSS directamente a una sección.
+
+lang: permite especificar el idioma del contenido dentro de una sección.
+
+Estos son algunos de los atributos más comunes de la etiqueta section, pero no están 
+limitados a estos. Es posible utilizar otros atributos específicos de HTML5 según sea necesario.

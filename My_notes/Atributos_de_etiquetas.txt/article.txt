@@ -1,0 +1,12 @@
+Atributos de la etiqueta article
+
+La etiqueta <article> en HTML es utilizada para especificar un contenido autónomo y significativo 
+en una página web. Algunos de los atributos que puede tener son:
+
+id: es un identificador único para la sección y puede ser usado para hacer referencias a la misma 
+    desde otras partes de la página.
+class: es una clase que puede ser utilizada para dar estilo a la sección con CSS.
+style: permite especificar estilos directamente en la etiqueta.
+
+Estos son algunos de los atributos más comunes, pero también pueden haber otros dependiendo del 
+contexto y de la implementación.
