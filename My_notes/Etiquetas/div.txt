@@ -1,0 +1,24 @@
+Etiqueta div
+
+La etiqueta div en HTML es un elemento de contenedor genérico, utilizado para agrupar otros elementos 
+HTML con un propósito específico, como por ejemplo la estructuración de la página o la aplicación 
+de estilos CSS. La etiqueta div no tiene un significado semántico específico, a diferencia de otras 
+etiquetas como h1, p, article, etc. Sin embargo, se puede utilizar en combinación con otros atributos 
+y estilos para lograr el efecto deseado. Por ejemplo:
+
+<div id="header">
+  <h1>Bienvenido a mi sitio web</h1>
+  <nav>
+    <ul>
+      <li><a href="#inicio">Inicio</a></li>
+      <li><a href="#acerca">Acerca</a></li>
+      <li><a href="#contacto">Contacto</a></li>
+    </ul>
+  </nav>
+</div>
+
+El código anterior es un ejemplo de código HTML que utiliza la etiqueta div. La etiqueta div es un 
+contenedor genérico en HTML que se utiliza para dividir un documento HTML en secciones separadas. 
+En este ejemplo, se define una sección con una clase "container" y se incluye texto dentro de ella. 
+La clase "container" puede ser estilizada posteriormente con CSS para darle un diseño específico. 
+En resumen, la etiqueta div se utiliza para agrupar y organizar contenido en una página HTML.

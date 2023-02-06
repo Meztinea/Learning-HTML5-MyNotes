@@ -1,0 +1,4 @@
+Atributos de la etiqueta cite
+
+La etiqueta <cite> no tiene atributos específicos en HTML. Esta etiqueta se utiliza para indicar 
+una cita o referencia de una obra o autor, y su aspecto depende del estilo definido en el hoja de estilos.

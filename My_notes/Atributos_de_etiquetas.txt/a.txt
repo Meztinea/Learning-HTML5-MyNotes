@@ -1,0 +1,14 @@
+Atributos de la etiqueta a
+
+La etiqueta <a> es una etiqueta de enlace en HTML y tiene los siguientes atributos:
+
+* href: especifica la URL o el destino del enlace.
+* target: especifica dónde se abrirá el enlace, como una nueva pestaña o ventana.
+* download: sugiere al navegador que descargue el archivo en lugar de abrirlo en la página web.
+* hreflang: especifica el idioma de la página web destino del enlace.
+* rel: especifica la relación entre la página actual y la página destino del enlace.
+* type: especifica el tipo de contenido al que se está haciendo referencia.
+* referrerpolicy: controla cómo se envía la información de referencia al destino del enlace.
+
+Estos son los atributos más comunes de la etiqueta <a>, pero pueden haber otros atributos 
+dependiendo del contexto y la versión de HTML utilizada.

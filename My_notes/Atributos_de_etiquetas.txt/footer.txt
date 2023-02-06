@@ -1,0 +1,5 @@
+Atributos de la etiqueta footer
+
+La etiqueta <footer> no tiene atributos específicos en HTML. Sin embargo, puede contener 
+cualquier tipo de contenido HTML, incluyendo otros elementos como enlaces, párrafos, 
+imágenes, etc. y pueden darle estilos mediante CSS.

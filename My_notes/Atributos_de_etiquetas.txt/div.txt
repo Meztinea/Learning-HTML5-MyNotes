@@ -1,0 +1,6 @@
+Atributos de la etiqueta div
+
+La etiqueta div es una etiqueta de contenedor en HTML que permite agrupar otro contenido en un 
+bloque HTML. La etiqueta div no tiene atributos específicos, pero puede tener cualquier atributo 
+genérico HTML, como id, class, style, entre otros. Estos atributos se utilizan para definir el 
+estilo y el comportamiento de la sección contenida en el div.

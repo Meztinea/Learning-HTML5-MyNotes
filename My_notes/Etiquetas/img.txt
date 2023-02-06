@@ -1,0 +1,12 @@
+Etiqueta img
+
+La etiqueta <img> en HTML es usada para insertar imágenes en un documento web. Este es un 
+elemento de tipo en línea, que significa que no tiene una etiqueta de cierre y aparece dentro 
+de una etiqueta de bloque, como <p> o <div>. Algunos de los atributos comúnmente usados en 
+la etiqueta <img> incluyen src, que especifica la URL de la imagen a mostrar, y alt, que 
+proporciona un texto alternativo que se mostrará en caso de que la imagen no pueda ser cargada.
+
+<img src="imagen.jpg" alt="Descripción de la imagen">
+
+En este ejemplo, src especifica la ubicación de la imagen y alt especifica una descripción de 
+la imagen que se mostrará en caso de que la imagen no pueda ser cargada.

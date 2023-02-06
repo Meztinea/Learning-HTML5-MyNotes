@@ -1,0 +1,8 @@
+La etiqueta blockquote en HTML tiene los siguientes atributos:
+
+cite: Especifica la fuente de la cita.
+style: Especifica el estilo en línea para el elemento.
+
+Estos atributos son opcionales y se pueden utilizar para proporcionar información adicional sobre 
+la cita y su origen. Sin embargo, la mayoría de la información se debe incluir en el contenido de 
+la etiqueta blockquote y se debe estilizar con CSS.

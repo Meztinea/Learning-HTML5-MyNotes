@@ -1,0 +1,22 @@
+Etiqueta blockquote
+
+La etiqueta <blockquote> es una etiqueta en HTML que se utiliza para identificar y enmarcar un 
+bloque de texto que se está citando de otra fuente. Este bloque de texto se presenta en un 
+formato distinto al del texto circundante, generalmente con una sangría o indentación, y suele 
+tener una atribución o referencia a la fuente original. Algunos ejemplos de uso de la etiqueta `
+
+La etiqueta <blockquote> en HTML es una etiqueta de bloque que se utiliza para representar una 
+cita larga o un fragmento de texto citado de otro lugar. Esta etiqueta proporciona un formato 
+visual para diferenciar el texto citado de otros elementos en la página web. El contenido dentro 
+de la etiqueta <blockquote> se renderiza normalmente con un margen añadido para indicar que se 
+trata de una cita.
+
+A continuación se muestra un ejemplo de código HTML que utiliza la etiqueta blockquote:
+
+<blockquote>
+  "La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir adelante."
+  <cite>Albert Einstein</cite>
+</blockquote>
+
+En este ejemplo, el texto dentro de la etiqueta <blockquote> representa la cita y la etiqueta 
+<cite> especifica el autor de la cita.

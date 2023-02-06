@@ -1,0 +1,14 @@
+Etiqueta span
+
+La etiqueta <span> es una etiqueta en HTML que se utiliza para aplicar estilos a un pequeño 
+fragmento de texto dentro de un párrafo. También se puede utilizar para identificar un fragmento 
+de texto para su posterior manipulación con JavaScript o CSS. La etiqueta <span> no tiene 
+un significado semántico y, por lo tanto, no se debe utilizar para estructurar el contenido 
+de la página. En su lugar, se deben utilizar etiquetas semánticas como <p>, <h1>, <header>, etc.
+
+Aquí hay un ejemplo de código HTML que muestra cómo utilizar la etiqueta <span>:
+
+<p>Este párrafo contiene una <span style="color:red">palabra</span> destacada en rojo.</p>
+
+En este ejemplo, la etiqueta <span> se utiliza para destacar una palabra en particular dentro 
+del párrafo y darle un color específico (rojo) a través del atributo style.

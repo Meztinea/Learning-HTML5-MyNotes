@@ -1,0 +1,7 @@
+Etiqueta address
+
+La etiqueta address es una etiqueta HTML que se utiliza para representar la información de 
+contacto de un autor o propietario de un documento. Se utiliza para contener información como 
+la dirección postal, el correo electrónico o el número de teléfono. Por lo general, se 
+presenta en cursiva y se ubica en el pie de página o en la sección de "Contacto" de un sitio 
+web. La información dentro de la etiqueta address es para ser mostrada, no interactuada.

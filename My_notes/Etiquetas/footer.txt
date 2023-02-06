@@ -1,0 +1,18 @@
+Etiqueta footer
+
+La etiqueta footer es un elemento HTML que representa un pie de página y se utiliza para agrupar 
+contenido relacionado con la información de contacto, derechos de autor, enlaces a secciones de 
+la página, etc.
+
+Un ejemplo de uso sería:
+
+<footer>
+  <p>Copyright © 2023 My Website</p>
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+</footer>
+

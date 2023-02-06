@@ -1,0 +1,6 @@
+Atributos de la etiqueta hgroup
+
+La etiqueta <hgroup> en HTML no tiene atributos específicos. Sin embargo, es un contenedor para 
+etiquetas de encabezado <h1> a <h6>, y su uso es opcional. El propósito de la etiqueta <hgroup> 
+es agrupar varios encabezados en un solo elemento, permitiendo una mejor estructuración de la 
+información en una página web.

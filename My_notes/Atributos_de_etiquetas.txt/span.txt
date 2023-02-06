@@ -1,0 +1,13 @@
+Atributos de la etiqueta span
+
+La etiqueta <span> en HTML es una etiqueta de contenedor genérica que se utiliza para encerrar 
+pequeños fragmentos de texto o elementos inline dentro de un párrafo o bloque de texto. No 
+tiene ningún atributo específico y se utiliza principalmente para aplicar estilos CSS y 
+JavaScript a los contenidos que se encuentran dentro de ella. Algunos de los atributos más 
+comunes de la etiqueta <span> incluyen:
+
+* class: permite asignar una clase CSS a la etiqueta.
+* id: permite asignar un identificador único a la etiqueta para que pueda ser referenciada 
+    en los estilos CSS o en scripts JavaScript.
+* style: permite incluir estilos CSS en línea para aplicarlos al contenido dentro de la etiqueta
+

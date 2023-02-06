@@ -1,0 +1,6 @@
+Atributos de la etiqueta small
+
+La etiqueta small en HTML no tiene atributos específicos. Esta etiqueta es usada para representar 
+texto en un tamaño reducido, es decir, texto que se presenta en un tamaño de fuente más pequeño 
+en comparación con el texto circundante. Se utiliza principalmente para mostrar notas o 
+descripciones adicionales en una página web. 

@@ -1,0 +1,10 @@
+Etiqueta a
+
+La etiqueta <a> en HTML es una etiqueta de enlace que permite crear enlaces a otros documentos, 
+a otras páginas web, a correos electrónicos, entre otros. Su atributo principal es "href", que 
+especifica la dirección URL del enlace. Por ejemplo:
+
+<a href="https://www.google.com">Enlace a Google</a>
+
+Esto creará un enlace que dice "Enlace a Google" y que, al hacer clic en él, redirigirá al 
+usuario a la página web de Google.

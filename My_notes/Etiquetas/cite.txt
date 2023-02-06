@@ -1,0 +1,6 @@
+Etiqueta cite
+
+La etiqueta <cite> es un elemento en HTML que se utiliza para indicar el título de una obra, como 
+un libro, un artículo, un poema, una canción, etc. Este elemento es una forma de identificar la 
+fuente de la información en un documento HTML y se puede representar con un estilo diferente del 
+texto normal en el navegador, por ejemplo, en cursiva. La etiqueta <cite> no tiene atributos específicos.

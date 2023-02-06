@@ -1,0 +1,7 @@
+Etiqueta hgroup
+
+La etiqueta <hgroup> es un elemento HTML5 que se utiliza para agrupar títulos relacionados en 
+una sección. Permite agrupar varias etiquetas <h1>, <h2>, <h3>, etc., en un solo contenedor, 
+lo que permite una mejor organización y estructuración del contenido. La etiqueta <hgroup> 
+no tiene atributos específicos y su contenido es mostrado en la página como si estuviera dentro 
+de una etiqueta de título específica, como <h1>.

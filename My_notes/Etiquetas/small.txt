@@ -1,0 +1,9 @@
+Etiqueta small
+
+La etiqueta <small> en HTML es utilizada para mostrar texto pequeño en el documento. Se utiliza 
+principalmente para aclaraciones, notas al pie, derechos de autor, entre otros. Este texto se 
+muestra en un tamaño de fuente más pequeño que el texto envolvente. El texto dentro de la 
+etiqueta <small> se interpreta como texto secundario y no se debe utilizar como títulos o texto 
+principal.
+
+<p>Esta es una página de ejemplo <small>Nota: esta página es solo para fines de demostración</small></p>

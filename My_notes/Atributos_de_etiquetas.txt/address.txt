@@ -1,0 +1,5 @@
+Atributos de la etiqueta address
+
+La etiqueta <address> en HTML no tiene atributos específicos. Sin embargo, comúnmente se usa para 
+agrupar información de contacto y se formatea en un estilo diferenciado de los demás elementos 
+de la página.

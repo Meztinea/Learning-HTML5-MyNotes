@@ -1,0 +1,23 @@
+Etiqueta aside
+
+La etiqueta aside en HTML se utiliza para marcar un bloque de contenido que se considera 
+secundario respecto al contenido principal de la página web. Este contenido puede incluir 
+información complementaria o relacionada con el contenido principal, como por ejemplo notas, 
+citas, publicidad o widgets. La etiqueta aside puede ser utilizada tanto dentro del cuerpo 
+de un documento HTML como dentro de otras etiquetas como article, section o header.
+
+Un ejemplo de uso de la etiqueta aside podría ser el siguiente:
+
+<article>
+  <h1>Título del artículo</h1>
+  <p>Contenido principal del artículo</p>
+  <aside>
+    <h2>Nota al margen</h2>
+    <p>Información complementaria o relacionada con el artículo</p>
+  </aside>
+</article>
+
+En este ejemplo, el contenido marcado como aside representa una nota al margen que aporta 
+información complementaria sobre el contenido principal del artículo. Este contenido se 
+presenta en un bloque distinto, que puede ser visualmente diferenciado del contenido principal, 
+como por ejemplo en una columna lateral o en una sección separada de la página.

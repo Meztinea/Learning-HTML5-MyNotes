@@ -1,0 +1,5 @@
+Atributos de la etiqueta aside
+
+La etiqueta aside no tiene atributos específicos. Sin embargo, puede utilizar atributos 
+genéricos como class, id, style, etc. Para definir el estilo y la identificación del 
+contenido dentro de la etiqueta aside.
