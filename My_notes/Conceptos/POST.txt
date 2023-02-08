@@ -1,0 +1,39 @@
+Método POST
+
+El método POST en HTML es una forma de enviar datos desde un formulario HTML hacia un servidor web. 
+El método POST es utilizado cuando se quieren enviar grandes cantidades de información, como 
+contraseñas, comentarios u otros datos sensibles. La información enviada a través de POST se 
+envía en el cuerpo de la solicitud HTTP, por lo que no se puede ver en la URL, lo que lo hace más 
+seguro que el método GET.
+
+La información enviada se codifica en la parte del cuerpo de la solicitud HTTP y se envía al 
+servidor para su procesamiento. El método POST se utiliza cuando se requiere enviar información 
+confidencial o sensible al servidor, como contraseñas, información de tarjetas de crédito, etc. 
+Es importante tener en cuenta que el método POST es más seguro que el método GET, ya que los datos 
+enviados no aparecen en la URL, lo que los hace más seguros. Sin embargo, también es más pesado y 
+consume más ancho de banda que el método GET.
+
+<form action="http://www.ejemplo.com/formulario-procesar" method="post">
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombre" name="nombre"><br><br>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email"><br><br>
+  <input type="submit" value="Enviar">
+</form>
+
+Cuando el usuario envía el formulario, los datos se envían al servidor web especificado en la acción y 
+se procesan allí.
+
+El método GET y POST son dos de los métodos HTTP más utilizados para enviar datos desde un formulario 
+HTML hacia un servidor web.
+
+La principal diferencia entre ambos métodos es cómo manejan y transmiten los datos:
+
+El método GET envía los datos a través de la URL como una cadena de consulta y los datos están 
+limitados a un tamaño máximo de 2048 caracteres. Es más adecuado para operaciones de lectura y 
+puede ser guardado en el historial del navegador y bookmarks.
+
+El método POST envía los datos en el cuerpo de la solicitud HTTP y no tiene restricciones en cuanto 
+a su tamaño. Es más adecuado para operaciones de escritura y no se guarda en el historial del navegador.
+
+En resumen, GET se usa para obtener información y POST para enviar información.

@@ -1,0 +1,8 @@
+Etiqueta th
+
+La etiqueta th es una etiqueta HTML que se utiliza para definir una celda de encabezado en una 
+tabla. Es una celda especial que contiene texto que describe el contenido de las columnas o filas 
+adyacentes. Esta etiqueta suele tener un aspecto diferenciado del resto de las celdas en una 
+tabla, como un fondo más oscuro o un texto en negrita, para destacar su importancia. Además de 
+su función estética, los encabezados de tabla también ayudan a los usuarios a entender mejor la 
+estructura de la tabla y a identificar la información en ella.

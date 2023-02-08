@@ -1,0 +1,36 @@
+Etiqueta thead
+
+La etiqueta thead es un elemento de HTML que representa un encabezado de una tabla. Se usa para 
+agrupar los contenidos de encabezado de una tabla y se muestra en la parte superior de la tabla. 
+El contenido dentro de la etiqueta thead se presenta en negrita y centrado por defecto, y se 
+puede dar formato con CSS. La etiqueta thead es útil para identificar claramente la información 
+importante en la tabla y para que la información de encabezado sea accesible a los usuarios que 
+usan tecnologías de asistencia.
+
+Un ejemplo de uso de la etiqueta thead en HTML es el siguiente:
+
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Apellido</th>
+      <th>Edad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Juan</td>
+      <td>Pérez</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>María</td>
+      <td>García</td>
+      <td>25</td>
+    </tr>
+  </tbody>
+</table>
+
+La etiqueta thead define la sección de encabezados de una tabla, que suele incluir las etiquetas 
+th que contienen los títulos de las columnas. En este ejemplo, la sección de encabezados incluye 
+las columnas "Nombre", "Apellido" y "Edad".

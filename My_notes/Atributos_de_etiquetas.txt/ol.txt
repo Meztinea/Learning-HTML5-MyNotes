@@ -1,0 +1,18 @@
+Atributos de la etiqueta ol
+
+La etiqueta "ol" (ordered list) en HTML tiene los siguientes atributos:
+
+* type: Especifica el tipo de marcador que se usará para las listas ordenadas, como números o letras.
+
+* start: Especifica el valor inicial que tendrá el primer elemento de la lista.
+
+* reversed: Especifica si la lista debería estar presentada en orden inverso (del último al primero).
+
+* class: Especifica una o más clases CSS para aplicar estilos a la lista.
+
+* id: Especifica un identificador único para la lista.
+
+* style: Especifica estilos CSS inline para aplicar a la lista.
+
+Estos son los atributos más comunes de la etiqueta "ol" en HTML. Hay otros atributos que se pueden 
+usar, pero dependen de la versión de HTML que esté utilizando.

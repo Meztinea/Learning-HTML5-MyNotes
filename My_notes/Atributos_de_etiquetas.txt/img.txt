@@ -5,7 +5,9 @@ La etiqueta <img> en HTML tiene los siguientes atributos:
 * src: Especifica la URL de la imagen que se mostrará.
 * alt: Especifica un texto alternativo que se mostrará en caso de que la imagen no se pueda cargar.
 * width: Especifica el ancho de la imagen en píxeles.
+    El valor para este atributo es en pixeles ejemplo --> width="400" 
 * height: Especifica la altura de la imagen en píxeles.
+    El valor para este atributo es en pixeles ejemplo --> height="400" 
 * style: Especifica un estilo CSS para la imagen.
 * class: Especifica una o varias clases CSS para la imagen.
 * id: Especifica un identificador único para la imagen.

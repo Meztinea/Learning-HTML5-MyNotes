@@ -1,0 +1,22 @@
+Atributos de la etiqueta button
+
+Los atributos comunes de la etiqueta <button> incluyen:
+
+* type: Especifica el tipo de botón, que puede ser "submit", "reset" o "button".
+    La opción button es más personalizable.
+    La opción submit envía el formulario a la dirección indicada.
+    La opción reset borra el contenido del formulario y lo deja en sus valores por defecto.
+* value: Especifica el valor que se enviará al servidor cuando se haga clic en el botón.
+* name: Especifica un nombre para el botón.
+* form: Especifica el formulario al que está asociado el botón.
+* formaction: Especifica la acción a tomar cuando se envía el formulario asociado.
+* formenctype: Especifica la codificación de los datos que se envían con el formulario asociado.
+* formmethod: Especifica el método que se usa para enviar los datos del formulario asociado.
+* formnovalidate: Especifica que el formulario asociado no debe ser validado.
+* formtarget: Especifica la ventana o el marco donde se cargará la respuesta del servidor después 
+    de enviar el formulario asociado.
+* autofocus: Especifica que el botón recibirá el enfoque automáticamente cuando se carga la página.
+* disabled: Especifica que el botón está deshabilitado y no se puede hacer clic.
+* style: Especifica el estilo CSS para el botón.
+
+Estos son algunos de los atributos más comunes de la etiqueta <button>, pero hay otros también disponibles.

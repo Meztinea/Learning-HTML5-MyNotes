@@ -8,3 +8,13 @@ Las etiquetas se combinan para crear una estructura completa para la página web
 etiquetas comunes incluyen: <html>, <head>, <body>, <header>, <nav>, <main>, <section>, 
 <article>, <aside>, <footer>, <h1>-<h6>, <p>, <a>, <img>, <ul>, <ol>, <li>, <table>, entre 
 otras.
+
+La mayoría de las etiquetas deben llegar etiquetas de apertura y de cierre.
+
+Etiqueta de apertura
+<h1>
+
+Etiqueta de cierre
+</h1>
+
+La etiqueta de cierre lleva una diagonal.

@@ -1,0 +1,4 @@
+Atributos de la etiqueta br 
+
+La etiqueta <br> es una etiqueta de línea de salto, que permite insertar un salto de línea en el 
+texto. Esta etiqueta no tiene atributos.

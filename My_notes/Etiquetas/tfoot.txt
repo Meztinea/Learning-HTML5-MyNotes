@@ -1,0 +1,47 @@
+Etiqueta tfoot
+
+La etiqueta <tfoot> es un elemento HTML que se utiliza para agrupar el contenido de una o más 
+celdas en el pie de una tabla. Esta etiqueta se coloca dentro de una etiqueta <table> y puede 
+contener una o más filas, representadas por etiquetas <tr>. El contenido del pie de tabla se 
+muestra en una o más filas de celdas al final de la tabla, justo antes de la etiqueta <tbody>.
+
+La etiqueta <tfoot> se utiliza principalmente para mostrar información adicional o resumen en 
+la parte inferior de una tabla, como totales o promedios. Al igual que otras partes de la tabla, 
+se puede dar formato a la información en el pie de tabla mediante la aplicación de estilos CSS.
+
+A continuación te muestro un ejemplo de una tabla con una etiqueta tfoot que contiene el total
+de una columna:
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Cantidad</th>
+      <th>Precio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lápiz</td>
+      <td>10</td>
+      <td>$0.50</td>
+    </tr>
+    <tr>
+      <td>Borrador</td>
+      <td>5</td>
+      <td>$0.30</td>
+    </tr>
+    <tr>
+      <td>Cuaderno</td>
+      <td>3</td>
+      <td>$2.00</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Total</td>
+      <td>18</td>
+      <td>$3.80</td>
+    </tr>
+  </tfoot>
+</table>

@@ -1,0 +1,14 @@
+Etiqueta de comentarios
+
+Los comentarios de código HTML son una forma de agregar notas en el código HTML que no se 
+mostrarán en el documento HTML resultante. Se escriben entre los símbolos "<!--" y "-->". 
+Estos comentarios pueden ser útiles para describir partes del código o para desactivar 
+temporalmente una parte de código sin eliminarla permanentemente.
+
+Un ejemplo de comentario de código HTML es el siguiente:
+
+<!-- Este es un comentario en HTML -->
+
+Los comentarios en HTML permiten escribir notas o documentación en el código que no serán 
+visibles en la página web final. Son útiles para recordar el propósito de una sección específica 
+de código o para ocultar partes del código mientras se realiza pruebas o depuración.

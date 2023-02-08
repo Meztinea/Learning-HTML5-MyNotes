@@ -1,0 +1,37 @@
+Atributos de la etiqueta input
+
+Los atributos comunes de la etiqueta <input> incluyen:
+
+* type: Especifica el tipo de campo de entrada, por ejemplo, texto, número, correo electrónico, etc.
+    Los valores que pueden enviarse por medio de type son: 
+    button              checkbox (casilla)      color
+    date                datetime-local          email
+    file (busca archivo)hidden                  image
+    month               number                  password
+    radio (selección)   range                   reset
+    search              submit (botón)          tel
+    text                time                    url
+    week
+* name: Especifica un nombre para el campo de entrada que será utilizado para identificarlo en el 
+    procesamiento del formulario.
+    Ejemplo: <input name="nombre" />
+    Cuando se especifica el name del input, se indica que al solicitar los datos ingresados en el 
+    formulario para hacer uso de ellos, este dato llegará con la clave nombre y el valor ingresado
+    por el usuario.
+* value: Especifica un valor predeterminado para el campo de entrada.
+    Ejemplo: <input value="Valor por defecto">
+    Ingresa un valor por defecto dentro del input.
+* placeholder: Especifica una descripción breve para el campo de entrada que se muestra en el campo 
+    antes de que el usuario ingrese datos.
+    Ejemplo: <input placeholder="Nombre" />
+    El texto de este atributo aparece dentro del input con un color más claro de lo normal para 
+    indicar al usuario lo que debe ingresar.
+* required: Especifica si el campo de entrada es requerido o no.
+* pattern: Especifica una expresión regular para validar el valor del campo de entrada.
+* autocomplete: Especifica si el navegador debe autocompletar el valor del campo de entrada o no.
+* min y max: Especifican los límites mínimo y máximo para un campo de entrada de tipo número.
+* step: Especifica el incremento válido para un campo de entrada de tipo número.
+* width y height: Especifican el tamaño en píxeles para un campo de entrada de tipo imagen.
+
+Estos son solo algunos de los muchos atributos que puede tener la etiqueta <input>. La cantidad y 
+tipo de atributos disponibles depende del tipo de campo de entrada específico.

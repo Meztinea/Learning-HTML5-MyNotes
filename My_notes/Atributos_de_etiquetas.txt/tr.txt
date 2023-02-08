@@ -1,0 +1,8 @@
+Atributos de la etiqueta tr
+
+La etiqueta <tr> (table row) es una etiqueta HTML que se utiliza para definir una fila en una 
+tabla. Algunos de los atributos comúnmente utilizados en la etiqueta <tr> incluyen:
+
+align: Especifica la alineación horizontal de los contenidos de la fila.
+bgcolor: Especifica el color de fondo de la fila.
+valign: Especifica la alineación vertical de los contenidos de la fila.

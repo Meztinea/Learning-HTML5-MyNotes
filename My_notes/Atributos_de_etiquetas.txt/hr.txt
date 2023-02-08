@@ -1,0 +1,5 @@
+Atributos de la etiqueta hr
+
+La etiqueta <hr> en HTML representa una línea horizontal, y no tiene atributos específicos. 
+Sin embargo, se pueden aplicar estilos CSS para controlar su apariencia, como su ancho, 
+color, margen, etc.

@@ -1,0 +1,7 @@
+Etiqueta tr
+
+La etiqueta tr en HTML es una etiqueta de tabla que representa una fila de una tabla. Cada celda 
+de la fila está contenida en una etiqueta td o th que representa una celda de datos o una celda 
+de encabezado, respectivamente. La etiqueta tr permite organizar los datos en una tabla en filas 
+claramente definidas y fácilmente identificables.
+

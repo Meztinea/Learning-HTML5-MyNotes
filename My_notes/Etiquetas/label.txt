@@ -1,0 +1,18 @@
+Etiqueta label
+
+La etiqueta <label> es una etiqueta HTML utilizada para describir los elementos de formulario 
+en una página web. Se utiliza para asociar texto o descripción con un elemento de entrada en un 
+formulario, como un cuadro de texto, un botón de radio o una casilla de verificación. Al hacer 
+clic en la descripción asociada con un elemento de entrada, el usuario puede activar o enfocar 
+ese elemento de entrada. Esto ayuda a mejorar la accesibilidad y la usabilidad de un formulario.
+
+Aquí hay un ejemplo de la etiqueta label:
+
+<form>
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombre">
+</form>
+
+La etiqueta label se utiliza para asociar una descripción con un elemento de formulario en 
+particular, en este caso con el input que tiene un id de "nombre". Al hacer clic en la descripción 
+"Nombre:" también se seleccionará el campo de texto asociado.

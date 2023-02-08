@@ -10,3 +10,8 @@ proporciona un texto alternativo que se mostrará en caso de que la imagen no pu
 
 En este ejemplo, src especifica la ubicación de la imagen y alt especifica una descripción de 
 la imagen que se mostrará en caso de que la imagen no pueda ser cargada.
+
+La etiqueta img no tiene etiqueta de cierre pero se indica el cierre en la misma etiqueta con 
+una diagonal.
+
+<img {atributos} />

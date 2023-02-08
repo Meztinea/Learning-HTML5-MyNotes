@@ -1,0 +1,5 @@
+Atributos de la etiqueta thead
+
+La etiqueta <thead> en HTML no tiene atributos específicos. Sin embargo, puede tener atributos 
+globales como "id", "class", "style", etc. La etiqueta <thead> se utiliza para definir un bloque 
+de encabezados de tabla y se debe contener dentro de una etiqueta <table>. 

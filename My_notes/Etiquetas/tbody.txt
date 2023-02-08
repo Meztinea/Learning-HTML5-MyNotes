@@ -1,0 +1,22 @@
+Etiqueta tbody
+
+La etiqueta <tbody> en HTML es un contenedor que se utiliza para agrupar el contenido de una 
+tabla. Se utiliza para definir el cuerpo de la tabla y contiene las filas de datos que se 
+mostrarán en la tabla. La etiqueta <tbody> se coloca dentro de la etiqueta <table> y puede 
+tener varias etiquetas <tr> (filas) dentro de ella. La etiqueta <tbody> es opcional, pero su 
+uso es recomendado ya que permite un mejor manejo y control de los datos en la tabla.
+
+<table>
+  <thead>
+    <tr>
+      <th>Encabezado 1</th>
+      <th>Encabezado 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dato 1</td>
+      <td>Dato 2</td>
+    </tr>
+  </tbody>
+</table>

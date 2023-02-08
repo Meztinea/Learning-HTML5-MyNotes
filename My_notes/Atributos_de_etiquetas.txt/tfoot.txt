@@ -1,0 +1,13 @@
+Atributos de la etiqueta tfoot
+
+La etiqueta <tfoot> es un elemento HTML que se utiliza para definir un bloque de pie de tabla 
+dentro de una tabla (<table>). Algunos de sus atributos son:
+
+align: Especifica el alineamiento horizontal de los contenidos dentro de la celda.
+valign: Especifica el alineamiento vertical de los contenidos dentro de la celda.
+bgcolor: Especifica el color de fondo de la celda.
+colspan: Especifica cuántas columnas deberán combinarse en una sola celda.
+rowspan: Especifica cuántas filas deberán combinarse en una sola celda.
+
+Estos atributos son específicos de la celda de una tabla y no solo se aplican a la etiqueta 
+<tfoot>, sino a otras etiquetas como <thead>, <tbody> y <td>.

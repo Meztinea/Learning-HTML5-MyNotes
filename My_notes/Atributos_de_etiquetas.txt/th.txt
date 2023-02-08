@@ -1,0 +1,13 @@
+Atributos de la etiqueta th
+
+Los atributos comunes de la etiqueta <th> son:
+
+* colspan: Especifica el número de columnas que la celda de encabezado debería abarcar.
+* rowspan: Especifica el número de filas que la celda de encabezado debería abarcar.
+* scope: Especifica el alcance de la celda de encabezado, ya sea "columna", "fila" o "tabla".
+* id: Especifica un identificador único para la celda de encabezado.
+* class: Especifica una o más clases para la celda de encabezado.
+* style: Especifica un estilo en línea para la celda de encabezado.
+
+Además de estos atributos, la etiqueta <th> también puede incluir atributos globales como 
+lang, dir, title, etc.

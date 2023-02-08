@@ -1,0 +1,14 @@
+Etiqueta button
+
+La etiqueta <button> en HTML es una etiqueta de formulario que permite crear un botón. Se utiliza 
+para realizar acciones en el formulario, tales como enviar datos, resetear datos, o cualquier 
+otra acción que se quiera realizar. La etiqueta <button> puede contener cualquier contenido, como 
+texto o imágenes, y puede tener diferentes estilos y comportamientos con CSS y JavaScript. Por 
+defecto, los botones son de tamaño mediano, pero su apariencia puede ser modificada a través de CSS.
+
+Aquí hay un ejemplo de código HTML que muestra cómo se utiliza la etiqueta button:
+
+<button>Haz clic aquí</button>
+
+Este ejemplo crea un botón con el texto "Haz clic aquí". Cuando se hace clic en el botón, no sucede 
+nada por defecto, pero puedes agregar lógica en JavaScript para controlar su comportamiento.

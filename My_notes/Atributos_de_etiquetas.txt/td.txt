@@ -1,0 +1,12 @@
+Atributos de la etiqueta td
+
+Los atributos más comunes de la etiqueta td son:
+
+* colspan: define la cantidad de columnas que ocupará la celda
+* rowspan: define la cantidad de filas que ocupará la celda
+* headers: especifica los encabezados asociados a la celda
+* scope: define el alcance de la celda (encabezado de fila, encabezado de columna o celda de datos)
+* abbr: especifica una abreviación para el contenido de la celda
+
+Además de estos, la etiqueta td también puede incluir atributos genéricos como class, 
+id, style, title, entre otros.

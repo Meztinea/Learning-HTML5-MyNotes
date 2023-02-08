@@ -1,0 +1,4 @@
+Atributos de la etiqueta tbody
+
+La etiqueta tbody no tiene atributos específicos. Sin embargo, se puede aplicar estilos CSS a 
+la tabla, fila o celda a través de selectores de clases o identificadores.

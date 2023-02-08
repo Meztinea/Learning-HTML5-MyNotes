@@ -1,0 +1,38 @@
+Método GET
+
+El método GET es uno de los dos métodos de envío de datos más comunes en HTML, junto con el método 
+POST. GET se utiliza para obtener información del servidor y presentarla en una página web. El 
+método GET se utiliza principalmente para recuperar información estática y no modificable.
+
+Cuando se utiliza el método GET, los datos se envían en la URL y pueden verse en la barra de 
+direcciones del navegador. Por esta razón, no es recomendable usar GET para enviar información 
+confidencial o sensibles, ya que pueden ser fácilmente interceptados. Además, GET no es seguro 
+para enviar información que requiere de autenticación o autorización.
+
+Sin embargo, una de las ventajas del método GET es que es fácil de usar y más rápido que POST. 
+También permite que los usuarios guarden o compartan fácilmente las páginas web con información 
+que han recibido, ya que la información se incluye en la URL.
+
+En resumen, el método GET es adecuado para la recuperación de información estática y no confidencial, 
+mientras que POST es más adecuado para la transmisión de información confidencial y dinámica. Es 
+importante elegir el método correcto en función de las necesidades específicas de cada proyecto.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Formulario GET</title>
+  </head>
+  <body>
+    <form action="http://www.example.com/search" method="get">
+      <label for="searchTerm">Búsqueda:</label>
+      <input type="text" id="searchTerm" name="searchTerm">
+      <input type="submit" value="Enviar">
+    </form>
+  </body>
+</html>
+
+En este ejemplo, creamos un formulario HTML que permite al usuario realizar una búsqueda en un sitio 
+web. El formulario utiliza el método GET, lo que significa que la información ingresada por el 
+usuario será enviada a la dirección http://www.example.com/search como una serie de pares clave-valor 
+en la URL. Por ejemplo, si el usuario ingresa "html" en el campo de búsqueda, la URL completa sería 
+http://www.example.com/search?searchTerm=html.

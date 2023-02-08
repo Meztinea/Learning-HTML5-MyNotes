@@ -1,0 +1,27 @@
+Etiqueta form
+
+La etiqueta form es una etiqueta HTML que se utiliza para crear formularios web. Un formulario 
+es una sección de una página web donde se pueden ingresar datos para su posterior procesamiento. 
+Los formularios pueden ser utilizados para recopilar información del usuario, enviar datos a 
+un servidor, etc. La etiqueta form define el comienzo y el final del formulario y contiene otros 
+elementos HTML, como input, select, textarea, button, etc., que definen los elementos 
+interactivos del formulario.
+
+Ejemplo de código HTML5 que utiliza la etiqueta form:
+
+<form action="https://www.ejemplo.com/procesar-formulario" method="post">
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombre" name="nombre"><br><br>
+  
+  <label for="email">Correo electrónico:</label>
+  <input type="email" id="email" name="email"><br><br>
+  
+  <label for="password">Contraseña:</label>
+  <input type="password" id="password" name="password"><br><br>
+  
+  <input type="submit" value="Enviar">
+</form>
+
+Este formulario incluye tres campos de texto (nombre, correo electrónico y contraseña) y un botón 
+de envío. La acción action especifica la URL donde se procesará el formulario, mientras que el 
+método method indica cómo se enviarán los datos (en este caso, usando el método POST).

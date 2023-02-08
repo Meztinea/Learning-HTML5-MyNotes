@@ -2,8 +2,16 @@ Atributos de la etiqueta li
 
 La etiqueta "li" en HTML tiene los siguientes atributos:
 
-value: Especifica el valor numérico de un elemento de una lista ordenada.
-type: Especifica el tipo de marcador para un elemento de una lista ordenada.
+* value: Especifica el valor numérico de un elemento de una lista ordenada.
+    Ejemplo en una lista ol (ordenada): <li value="50">
+    La lista comienza con el número 50, este valor se indica en la primer etiqueta li.
+* type: Especifica el tipo de marcador para un elemento de una lista ordenada.
+* style: Especifica el diseño del elemento, un punto, numeros romanos, letras, etc.
+    Ejemplo: <li style="list-style-type: lower-roman;">
+    En este caso la lista identificará cada elemento con números romanos 
+    i. Primer elemento
+    ii. Segundo elemento
+    iii. Tercer elemento
 
 Estos atributos son menos comúnmente utilizados que otros atributos como "class" y "id", 
 que se utilizan para controlar el estilo y la identificación de un elemento. Sin embargo, 

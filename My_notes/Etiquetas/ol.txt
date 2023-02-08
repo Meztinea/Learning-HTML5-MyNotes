@@ -1,0 +1,22 @@
+Etiqueta ol (lista ordenada)
+
+La etiqueta ol es una etiqueta HTML que se utiliza para crear una lista ordenada. La lista 
+ordenada es una lista de elementos numerados o con un símbolo específico. En HTML, la etiqueta 
+ol se abre y se cierra y cada elemento de la lista se envuelve en una etiqueta li. Por ejemplo:
+
+<ol>
+  <li>Primer elemento de la lista</li>
+  <li>Segundo elemento de la lista</li>
+  <li>Tercer elemento de la lista</li>
+</ol>
+
+El resultado sería:
+
+Primer elemento de la lista
+Segundo elemento de la lista
+Tercer elemento de la lista
+
+Ejemplo en una lista ol (ordenada): <li value="50">
+    La lista comienza con el número 50, este valor se indica en la primer etiqueta li.
+
+Las listas pueden ser anidadas, una lista dentro de otra lista.

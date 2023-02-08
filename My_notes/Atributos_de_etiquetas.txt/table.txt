@@ -1,0 +1,15 @@
+Atributos de la etiqueta table
+
+Los atributos comunes de la etiqueta table incluyen:
+
+* border: define el grosor del borde en píxeles.
+* cellpadding: define el espacio entre el borde de la celda y su contenido.
+* cellspacing: define el espacio entre las celdas.
+* width: define el ancho de la tabla en píxeles o porcentaje.
+* align: alinea la tabla respecto a su contenedor, los valores posibles son "left", "right" y "center".
+* bgcolor: define el color de fondo de la tabla.
+* style: define características de diseño de la tabla.
+    Ejemplo: <table style="border: 1px solid black;"
+    En este caso se crea el borde exterior de la tabla con grosor de 1 pixel y de color negro solido.
+
+Hay otros atributos menos comunes, pero estos son los más utilizados.

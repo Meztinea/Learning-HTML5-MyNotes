@@ -1,0 +1,6 @@
+Etiqueta imput
+
+La etiqueta <input> es un elemento en HTML que permite la entrada de datos por parte del usuario. 
+Esta etiqueta es un elemento de formulario y puede ser utilizada para crear diferentes tipos de 
+campos de entrada, como cajas de texto, casillas de verificación, botones de selección, entre 
+otros. Cada tipo de entrada es especificado por un valor diferente para el atributo type.

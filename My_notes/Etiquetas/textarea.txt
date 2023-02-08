@@ -1,0 +1,18 @@
+Etiqueta textarea
+
+La etiqueta textarea es un elemento HTML que permite crear un área de texto editable. El usuario 
+puede escribir y editar varias líneas de texto dentro de esta área. La etiqueta textarea es muy 
+útil para formularios web, donde se requiere que el usuario introduzca texto más largo o varias 
+líneas de texto.
+
+<form>
+  <label for="comments">Deja aquí tus comentarios:</label>
+  <textarea id="comments" rows="4" cols="50">
+  </textarea>
+</form>
+
+En este ejemplo, la etiqueta <textarea> se utiliza para crear un área de texto en un formulario, 
+donde el usuario puede escribir una cantidad variable de texto. La propiedad rows y cols se utiliza 
+para definir el tamaño del área de texto en número de filas y columnas, respectivamente. La etiqueta 
+<label> se utiliza para proporcionar una descripción al usuario sobre qué debe escribir en el área 
+de texto.

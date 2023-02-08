@@ -1,0 +1,28 @@
+Atributos de la etiqueta textarea
+
+Los atributos más comunes de la etiqueta textarea son:
+
+* cols: número de columnas que tendrá la área de texto.
+    Ejemplo: <textarea cols="20">
+    El área de texto tendrá 10 columnas para que el usuari pueda ingresar texto.
+* rows: número de filas que tendrá la área de texto.
+    Ejemplo: <textarea rows="10">
+    El área de texto tendrá 10 filas para que el usuario pueda ingresar texto.
+* name: nombre del campo de formulario.
+    Cuando se especifica el name del textarea, se indica que al solicitar los datos ingresados en el 
+    formulario para hacer uso de ellos, este dato llegará con la clave nombre y el valor ingresado
+    por el usuario.
+* disabled: indica si el control está deshabilitado.
+* readonly: indica si el contenido del control es de solo lectura.
+* required: indica si el campo es obligatorio.
+* wrap: indica cómo se ajustará el texto dentro del control.
+* placeholder: texto descriptivo que se muestra en el control antes de que el usuario ingrese 
+    información.
+* maxlength: número máximo de caracteres permitidos en el control.
+
+Para ingresar un valor por defecto en una etiqueta de textarea se ingresa el texto entre la etiqueta
+de apertura y la de cierre:
+    Ejemplo: <textarea> Este es un valor por defecto </textarea>
+
+Estos son algunos de los atributos más comunes, pero existen otros que dependen del contexto y 
+de la implementación específica.

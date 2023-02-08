@@ -1,0 +1,40 @@
+Identación
+
+La identación en HTML se refiere al proceso de agregar espacio adicional antes de una línea de 
+código para hacerlo más legible y organizado. La identación no afecta el comportamiento o la 
+funcionalidad del código HTML, pero es una buena práctica utilizada por los programadores para 
+mejorar la legibilidad y la facilidad de mantenimiento del código. La identación se puede 
+realizar con tabulaciones o espacios, y su nivel y profundidad pueden variar dependiendo de 
+la preferencia del programador.
+
+La identación en HTML se utiliza para mejorar la legibilidad del código y ayudar a visualizar 
+la estructura de un documento. Un ejemplo de identación en HTML sería:
+
+<body>
+    <header>
+        <h1>Bienvenido a mi sitio web</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Acerca de</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Introducción</h2>
+            <p>Bienvenido a mi sitio web. Aquí encontrarás información sobre mí y mis intereses.</p>
+        </section>
+        <section>
+            <h2>Acerca de mí</h2>
+            <p>Soy un apasionado de la tecnología y la programación. Me encanta aprender cosas nuevas y compartirlas con otros.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright &copy; 2022 Mi nombre</p>
+    </footer>
+</body>
+
+En este ejemplo, cada nivel de la estructura de la página está identado con un espacio o tabulación, 
+lo que permite una rápida comprensión de la estructura.

@@ -1,0 +1,35 @@
+Etiqueta table
+
+La etiqueta table es una etiqueta en HTML que se utiliza para crear tablas. Las tablas se utilizan 
+para mostrar datos en filas y columnas y suelen ser útiles para organizar y presentar información 
+en un formato fácil de leer y comparar. La estructura de una tabla en HTML consta de varias etiquetas, 
+como tr para crear filas, th para crear encabezados de columna y td para crear celdas de datos. Además, 
+también se pueden usar atributos como border, cellpadding y cellspacing para personalizar la apariencia 
+de la tabla.
+
+Aquí hay un ejemplo simple de una tabla HTML:
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Edad</th>
+  </tr>
+  <tr>
+    <td>Juan</td>
+    <td>Pérez</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>María</td>
+    <td>García</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Pedro</td>
+    <td>Martínez</td>
+    <td>35</td>
+  </tr>
+</table>
+
+Esto generaría una tabla con 3 filas y 3 columnas, con los encabezados de Nombre, Apellido y Edad.

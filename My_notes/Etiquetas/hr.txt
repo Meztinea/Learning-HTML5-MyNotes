@@ -1,0 +1,18 @@
+Etiqueta hr
+
+La etiqueta hr es una etiqueta de HTML que se utiliza para crear una línea horizontal en la 
+página web. Es útil para separar diferentes secciones de contenido en una página y para agregar 
+un visual break. La etiqueta hr es una etiqueta de contenido vacío, por lo que no requiere 
+una etiqueta de cierre. Aquí está un ejemplo de código HTML que utiliza la etiqueta hr:
+
+<p>This is some content.</p>
+<hr>
+<p>This is some more content.</p>
+
+El resultado sería algo así:
+
+This is some content.
+
+_______________________________________________________________________________
+
+This is some more content.

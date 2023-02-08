@@ -1,0 +1,17 @@
+Atributos de la etiqueta label
+
+La etiqueta label en HTML tiene los siguientes atributos:
+
+* for: Especifica una conexión entre el elemento label y el elemento controlado asociado.
+    Ejemplo <label for="nombre"> </label>
+            <imput id="nombre" />
+            Cuando se especifica una conexión, al dar clic en la etiqueta label, inmediatamente
+            el cursor se coloca dentro del input relacionado a la etiqueta.
+* form: Especifica una conexión entre el elemento label y un formulario al que pertenece.
+* accesskey: Especifica un atajo de teclado para el elemento label.
+* class: Especifica una o más clases CSS para aplicar estilos al elemento label.
+* id: Especifica un identificador único para el elemento label.
+* style: Especifica un estilo CSS inline para el elemento label.
+* title: Proporciona información adicional sobre el elemento label al mostrar una herramienta tip.
+
+Estos son los atributos más comunes de la etiqueta label en HTML.

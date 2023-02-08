@@ -1,0 +1,9 @@
+Etiqueta br 
+
+<br> es una etiqueta en HTML que significa "salto de línea". Esta etiqueta permite insertar un 
+salto de línea en un documento HTML, y su uso más común es para separar un párrafo o un texto en 
+líneas más cortas y legibles. La etiqueta <br> no requiere un cierre o un contenido, y se escribe 
+simplemente como <br>. Por ejemplo:
+
+<p>Esta es la primera línea del párrafo.<br>
+Esta es la segunda línea del párrafo.</p>

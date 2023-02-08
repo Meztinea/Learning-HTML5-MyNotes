@@ -1,0 +1,11 @@
+Atributos de la etiqueta form
+
+* action: indica la URL a la que se enviarán los datos del formulario.
+    Ejemplo: <form action="/formulario" method=""
+* method: indica el método HTTP (GET o POST) para enviar los datos del formulario.
+* enctype: indica el tipo de codificación de los datos del formulario.
+* name: define un nombre para el formulario, que puede ser utilizado en JavaScript para acceder 
+    al formulario y sus elementos.
+* target: indica en qué ventana o marco se abrirá el resultado de enviar el formulario.
+* accept-charset: indica los juegos de caracteres permitidos para la codificación de los datos 
+    del formulario.
