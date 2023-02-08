@@ -1,0 +1,29 @@
+Etiqueta link
+
+La etiqueta <link> es una etiqueta HTML que se utiliza para enlazar recursos externos como hojas 
+de estilo CSS o fuentes a una página web. Este enlace se coloca en la sección de cabecera de la 
+página (entre las etiquetas <head> y </head>) y permite aplicar estilos y tipografías a todo el 
+contenido de la página. Algunos de sus atributos más comunes incluyen href, rel, type y media.
+
+<head>
+  <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+
+En este ejemplo, se está agregando un archivo CSS externo llamado "estilos.css" a la página. La 
+etiqueta <link> especifica la relación entre el documento HTML y el recurso externo, y se usa 
+dentro del elemento <head> de la página.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Título de la página</title>
+    <link rel="icon" type="image/png" href="logo.png">
+  </head>
+  <body>
+    <!-- El resto del contenido de la página -->
+  </body>
+</html>
+
+El atributo rel especifica el tipo de relación que hay entre la página actual y el recurso vinculado, 
+en este caso, icon indica que se trata de un icono de la página. El atributo type especifica el tipo 
+MIME del archivo, y href especifica la ubicación del archivo.

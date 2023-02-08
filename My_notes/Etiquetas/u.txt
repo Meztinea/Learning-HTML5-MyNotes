@@ -1,0 +1,6 @@
+Etiqueta u
+
+La etiqueta <u> es una etiqueta HTML que define texto subrayado. Es una etiqueta obsoleta en 
+HTML5 y no se recomienda su uso en favor de estilos CSS para lograr el mismo efecto visual. 
+La etiqueta <u> es utilizada para enfatizar o destacar un fragmento de texto, pero su uso no 
+es recomendado porque no proporciona un control flexible sobre la apariencia del texto subrayado.

@@ -1,0 +1,4 @@
+Atributos de la etiqueta i
+
+La etiqueta <i> en HTML no tiene atributos específicos. Sin embargo, se pueden aplicar estilos 
+con CSS para modificar su aspecto, como el tamaño de la fuente, el color, la fuente, etc.

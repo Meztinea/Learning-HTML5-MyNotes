@@ -1,0 +1,27 @@
+Atributos de selección (id y class)
+
+id      --> Identificar un solo elemento
+class   --> Identificar a un grupo de elementos
+
+Los atributos de selección en HTML son aquellos atributos que se utilizan para identificar y 
+seleccionar elementos específicos en un documento HTML. Estos atributos incluyen el atributo 
+"id" y el atributo "class".
+
+El atributo "id" permite identificar de manera única un elemento en un documento HTML. Este 
+atributo se utiliza en conjunto con CSS para dar estilo a un elemento específico en una página web.
+
+El atributo "class" permite agrupar varios elementos de un documento HTML con una clase común, 
+lo que permite aplicar un estilo común a varios elementos de manera simultánea.
+
+Estos atributos son muy importantes para la creación de páginas web dinámicas y accesibles, y 
+son ampliamente utilizados en combinación con CSS y JavaScript.
+
+<article class="post">
+    <h2>Título de mi post</h2>
+</article>
+
+<article class="post">
+    <h2>Título de mi post 2</h2>
+</article>
+
+En este ejemplo se utiliza el selector class para identificar a los dos artículos como de tipo post.

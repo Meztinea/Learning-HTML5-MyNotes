@@ -1,0 +1,4 @@
+Atributos de la etiqueta main
+
+La etiqueta <main> en HTML no tiene atributos específicos. Sin embargo, puede incluir atributos 
+comunes de HTML, como class, id, style, etc.

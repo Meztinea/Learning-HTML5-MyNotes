@@ -34,3 +34,8 @@ En este ejemplo, la etiqueta <title> se encuentra dentro de la sección <head> y
 título de la página web como "Título de la Página Web". Este título aparecerá en la pestaña del 
 navegador y en los resultados de búsqueda, y será utilizado por los navegadores y los servicios 
 de bookmark para identificar la página y guardarla como un favorito.
+
+Dentro del head (cabeza) es posible agregar íconos, los iconos se muestran al lado del título
+en el nombre de la pestaña en el navegador. Por ejemplo, youtube en su págian siempre muestra la 
+imágen tipica del botón rojo con un triángulo blanco dentro. Para ello se puede hacer uso de la
+etiqueta link.

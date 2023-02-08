@@ -1,0 +1,6 @@
+Etiqueta i
+
+La etiqueta <i> es una etiqueta en HTML que se utiliza para enfatizar un fragmento de texto. 
+Por lo general, se usa para dar un estilo cursivo al texto encerrado dentro de la etiqueta. La 
+etiqueta <i> se utiliza para dar un efecto de itálica al texto, y se puede combinar con otras 
+etiquetas para dar más estilos y formatos. No tiene atributos específicos.

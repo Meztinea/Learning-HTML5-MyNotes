@@ -22,3 +22,6 @@ contenedor genérico en HTML que se utiliza para dividir un documento HTML en se
 En este ejemplo, se define una sección con una clase "container" y se incluye texto dentro de ella. 
 La clase "container" puede ser estilizada posteriormente con CSS para darle un diseño específico. 
 En resumen, la etiqueta div se utiliza para agrupar y organizar contenido en una página HTML.
+
+Esta etiqueta tiene la misma funcionalidad que la etiqueta de section. Las etiquetas div pueden ser
+anidadas.

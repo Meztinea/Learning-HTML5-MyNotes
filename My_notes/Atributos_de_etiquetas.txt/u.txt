@@ -1,0 +1,6 @@
+Atributos de la etiqueta u
+
+La etiqueta <u> no tiene atributos específicos en HTML. Es una etiqueta de formato de texto que 
+subraya el texto contenido dentro de ella. Es importante tener en cuenta que esta etiqueta se ha 
+desactualizado y no se recomienda su uso en HTML5, en su lugar se sugiere usar estilos CSS para 
+lograr un efecto similar.

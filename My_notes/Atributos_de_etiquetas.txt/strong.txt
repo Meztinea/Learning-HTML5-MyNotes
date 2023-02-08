@@ -1,0 +1,6 @@
+Atributos de la etiqueta strong
+
+La etiqueta <strong> en HTML no tiene atributos específicos. Esta etiqueta se utiliza para resaltar 
+o dar importancia a un texto y su comportamiento es determinado por los estilos CSS que se apliquen 
+en la página. En general, el texto dentro de la etiqueta <strong> se muestra en negrita en los 
+navegadores web.

@@ -1,0 +1,116 @@
+Lista de buenas prácticas en HTML 5
+
+1. Utiliza la estructura correcta y las etiquetas semánticas adecuadas para asegurar la accesibilidad 
+y la claridad del contenido.
+
+    Esto significa que se deben utilizar las etiquetas y atributos HTML5 adecuados para describir el 
+    contenido y la estructura de la página de manera semántica. Por ejemplo, en lugar de utilizar div 
+    y span para describir los encabezados y párrafos, se deben utilizar las etiquetas de encabezado 
+    h1, h2, h3, etc. y p para describir párrafos, respectivamente. Esto mejora la accesibilidad y la 
+    mantenibilidad del código HTML, y permite que los motores de búsqueda y las herramientas de 
+    desarrollo entiendan mejor la estructura de la página.
+
+2. Agrega atributos alt a las imágenes para describir su contenido y mejorar la accesibilidad.
+
+    El atributo alt en una etiqueta img es esencial para mejorar la accesibilidad en una página web. 
+    Este atributo proporciona una descripción textual del contenido de la imagen en caso de que la 
+    imagen no pueda ser cargada o sea inaccesible para algún usuario, por ejemplo, a aquellos que 
+    utilizan lectores de pantalla o tienen conexión a internet limitada.
+
+    Además, el atributo alt también es importante para los motores de búsqueda, ya que utilizan esta 
+    información para indexar el contenido de la página y mejorar su ranking en los resultados de 
+    búsqueda.
+
+    En resumen, agregar una descripción apropiada en el atributo alt para cada imagen en una página 
+    web es una buena práctica para mejorar la accesibilidad y la optimización SEO.
+
+3. Usa CSS para el formato y la presentación de la página, dejando el HTML para el contenido.
+
+    Cuando se desarrolla un sitio web, es importante mantener una separación clara entre el contenido 
+    y su presentación. El HTML se utiliza para describir el contenido de la página, mientras que el 
+    CSS se utiliza para definir cómo se verá ese contenido. Esto permite una mayor flexibilidad y 
+    facilidad de mantenimiento, ya que los cambios en el estilo se pueden realizar en un solo archivo 
+    CSS en lugar de tener que modificar cada página individualmente. Además, separar el contenido y 
+    la presentación también mejora la accesibilidad y la optimización para motores de búsqueda, ya 
+    que el contenido importante no se verá afectado por el estilo. Por lo tanto, es una buena práctica 
+    utilizar CSS para el formato y la presentación de la página y dejar el HTML para el contenido.
+
+4. Valida tu código HTML para asegurarte de que siga las pautas y estándares correctos.
+
+    Validar el código HTML es una práctica importante que ayuda a garantizar la calidad y la 
+    compatibilidad de la página con los estándares y las buenas prácticas. La validación consiste en 
+    comparar el código HTML con las normas establecidas por el W3C (World Wide Web Consortium) y 
+    verificar que no haya errores o problemas de sintaxis. Si se encuentran errores, se deben corregir 
+    para que el código HTML cumpla con los estándares. La validación también ayuda a mejorar la 
+    accesibilidad y la compatibilidad con los diferentes navegadores y dispositivos. En resumen, 
+    validar el código HTML es una práctica recomendable que contribuye a la calidad y la usabilidad de 
+    la página web.
+
+5. Crea sitios móviles amigables con la etiqueta meta viewport y estilos CSS flexibles.
+
+    La etiqueta meta viewport es una etiqueta HTML que permite controlar la forma en que se muestra 
+    una página en un dispositivo móvil. Al agregar una etiqueta meta viewport adecuada a la cabecera 
+    de tu página, puedes especificar el ancho y la escala inicial de la página, lo que puede ayudar 
+    a evitar problemas de visualización en dispositivos móviles. Al utilizar estilos CSS flexibles, 
+    puedes crear una presentación que se ajuste automáticamente a diferentes tamaños de pantalla y 
+    dispositivos. Esto es importante porque los usuarios están cada vez más accediendo a Internet a 
+    través de dispositivos móviles, y es importante asegurarse de que tu sitio sea fácilmente accesible 
+    y navegable en estos dispositivos. Por lo tanto, crear un sitio móvil amigable es una buena 
+    práctica en HTML5 que mejorará la experiencia del usuario y aumentará la accesibilidad de tu sitio 
+    en todos los dispositivos.
+
+6. Utiliza la etiqueta figure y figcaption para agrupar y describir imágenes y otros elementos multimedia.
+
+    La etiqueta figure es una forma de agrupar y describir elementos multimedia, como imágenes, videos, 
+    audio y gráficos, en HTML 5. Al usar la etiqueta figure para contener un elemento multimedia, 
+    podemos usar la etiqueta figcaption para describir el contenido de la figura. Esto ayuda a 
+    proporcionar más información sobre el contenido multimedia, lo que es especialmente útil para 
+    personas con discapacidades visuales que dependen de la descripción del contenido. Además, estas 
+    etiquetas también son útiles para los desarrolladores y diseñadores que buscan una forma clara y 
+    estructurada de organizar el contenido multimedia en una página web. Por lo tanto, utilizar figure 
+    y figcaption es una buena práctica en HTML 5 que contribuye a una mejor accesibilidad, organización 
+    y claridad en la presentación de elementos multimedia.
+
+7. Minimiza el uso de tablas y prefiere estructuras de div y css.
+
+    La minimización del uso de tablas en HTML y la preferencia por estructuras de div y CSS es una buena 
+    práctica en HTML 5 debido a varias razones. En primer lugar, las tablas a menudo se utilizan para 
+    crear una estructura de la página y, aunque funcionan, no son la forma más eficiente de hacerlo. 
+    Las estructuras de div y CSS son una alternativa más moderna y flexible que te permite crear una 
+    estructura más compleja y adaptable. Además, las tablas pueden ser más difíciles de manipular y 
+    ajustar con CSS que las estructuras de div. Por lo tanto, para asegurarte de que tu página web sea 
+    fácil de mantener y mejorar a lo largo del tiempo, es una buena idea minimizar el uso de tablas y 
+    utilizar estructuras de div y CSS en su lugar.
+
+8. Usa enlaces absolutos en lugar de relativos para vincular recursos externos.
+
+    Utilizar enlaces absolutos en lugar de enlaces relativos es una buena práctica en HTML5 ya que los 
+    enlaces absolutos proporcionan una dirección completa y fácilmente accesible para los recursos 
+    externos. Esto es especialmente importante cuando se crea un sitio web que será accedido desde 
+    diferentes ubicaciones o dispositivos. Los enlaces absolutos garantizan que los recursos externos 
+    se carguen de manera consistente y sin problemas, lo que mejora la experiencia de usuario y la 
+    accesibilidad de la página. En comparación, los enlaces relativos pueden ser inciertos y pueden 
+    dar lugar a errores en la carga de los recursos si la ubicación del usuario cambia. Por lo tanto, 
+    es una buena práctica utilizar enlaces absolutos en HTML5.
+
+9. Utiliza etiquetas de encabezado h1 a h6 de manera lógica y estructurada para mejorar la accesibilidad 
+    y la SEO.
+
+    La utilización adecuada de las etiquetas de encabezado h1 a h6 es una buena práctica en HTML 5 
+    que ayuda a mejorar la accesibilidad y el SEO de una página web. Estas etiquetas deben ser 
+    utilizadas de manera lógica y estructurada en el contenido de la página, para reflejar la 
+    importancia y jerarquía de cada sección. La etiqueta h1 se utiliza para el título principal de 
+    la página, mientras que las etiquetas h2 a h6 se utilizan para títulos secundarios y subsecciones. 
+    Al utilizar estas etiquetas de manera adecuada, se puede mejorar la accesibilidad para personas 
+    con discapacidad visual y la comprensión por parte de los motores de búsqueda, lo que puede mejorar 
+    el posicionamiento de la página en los resultados de búsqueda.
+
+10. Evita usar atributos presentacionales, como el atributo bgcolor, en favor de estilos CSS.
+
+    El uso de atributos presentacionales en HTML como el atributo bgcolor se ha desaconsejado en las 
+    últimas versiones de HTML debido a que estos atributos son limitantes y difíciles de mantener. En 
+    su lugar, es recomendable utilizar CSS para controlar el formato y la presentación de la página. 
+    CSS permite un mayor control sobre la apariencia de la página y permite una separación clara entre 
+    el contenido y la presentación, lo que resulta en un código más limpio y fácil de mantener. Además, 
+    el uso de CSS permite una mejor accesibilidad y facilita el mantenimiento y la actualización de la 
+    página en el futuro.

@@ -1,0 +1,10 @@
+Atributos de la etiqueta link
+
+Los atributos más comunes de la etiqueta link son:
+
+* href: especifica la URL del recurso que se está vinculando
+* rel: especifica la relación entre la página actual y el recurso vinculado
+* type: especifica el tipo de archivo del recurso vinculado
+* media: especifica el tipo de dispositivo o media para el que se optimiza el recurso
+
+También puede tener otros atributos como sizes, crossorigin, entre otros.

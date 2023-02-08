@@ -1,0 +1,44 @@
+Etiqueta main
+
+La etiqueta <main> es un elemento HTML5 que representa el contenido principal y único de un 
+documento HTML. Esta etiqueta es utilizada para identificar y destacar la sección principal de 
+una página web, que no está destinada a repetirse en otras páginas del mismo sitio web. Esta 
+etiqueta debe ser utilizada una sola vez en cada página y debe incluir el contenido más 
+relevante para el usuario. Ejemplos de contenido que se pueden incluir dentro de la etiqueta 
+<main> son artículos, formularios, imágenes, etc.
+
+Aquí hay un ejemplo de código HTML que usa la etiqueta <main> para identificar el contenido 
+principal de una página web:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejemplo de la etiqueta main</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Acerca de</a></li>
+          <li><a href="#">Servicios</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1>Bienvenido a mi sitio web</h1>
+      <p>Este es el contenido principal de mi sitio web, aquí se encuentra la información más importante.</p>
+    </main>
+    <aside>
+      <h2>Info adicional</h2>
+      <p>Este es un contenido adicional que complementa al contenido principal.</p>
+    </aside>
+    <footer>
+      <p>Copyright &copy; 2022 Mi sitio web</p>
+    </footer>
+  </body>
+</html>
+
+En este ejemplo, la etiqueta <main> se utiliza para identificar el contenido principal del sitio web, 
+es decir, la bienvenida y la descripción del sitio. Esta etiqueta debería ser única en cada página de
+un sitio web y no debería aparecer más de una vez.

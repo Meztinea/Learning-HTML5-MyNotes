@@ -1,0 +1,7 @@
+Etiqueta strong
+
+La etiqueta <strong> es una etiqueta HTML que se utiliza para destacar texto en un documento HTML. 
+Al aplicar estilo, el texto dentro de la etiqueta <strong> se muestra en negrita, lo que ayuda a 
+llamar la atención del usuario sobre ciertas palabras o frases importantes en el contenido. La 
+etiqueta <strong> es una etiqueta semántica, lo que significa que proporciona información adicional 
+sobre el contenido que contiene, lo que facilita la accesibilidad y mejora la experiencia del usuario.
