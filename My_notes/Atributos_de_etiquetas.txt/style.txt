@@ -1,0 +1,27 @@
+Atributos de la etiqueta style
+
+La etiqueta style en HTML5 solo tiene un atributo:
+
+* type: Especifica el tipo de contenido que se encuentra dentro de la etiqueta style. Por lo general, se 
+especifica como "text/css" para indicar que el contenido es una hoja de estilos CSS.
+
+Aquí hay un ejemplo de código HTML que incluye la etiqueta style y su atributo type:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      h1 {
+        color: blue;
+        font-size: 18px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Este es un título formateado con CSS</h1>
+  </body>
+</html>
+
+En este ejemplo, la etiqueta style se encuentra en la sección head del documento HTML y contiene 
+reglas de estilo en CSS que se aplican a los elementos en la página. El atributo type indica el tipo 
+de contenido incluido en la etiqueta style, en este caso "text/css".

@@ -1,0 +1,27 @@
+Etiqueta style
+
+Esta etiqueta es utilizada para definir estilos para un documento HTML y permite la inclusión de CSS 
+en una página HTML. La etiqueta <style> se coloca en el encabezado del documento HTML y sus atributos 
+permiten especificar el tipo de contenido (CSS) y la forma en que se procesa (en línea). Por ejemplo:
+
+<head>
+  <style>
+
+    header {
+        background-color: lightgray;
+        padding: 20px;
+        text-align: center;
+    }
+
+    header h1 {
+        font-size: 36px;
+        color: black;
+        margin: 0;
+    }
+
+  </style>
+</head>
+
+Este código define un estilo para un elemento header que consiste en un fondo gris claro, un espacio 
+de 20 píxeles alrededor y el texto centrado. Además, se define un estilo para un elemento h1 dentro 
+del header con un tamaño de letra de 36 píxeles, un color negro y sin margen.
