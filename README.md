@@ -14,6 +14,6 @@
 * article
 * div
 
-### Entre muchas otras etiquetas que se incluyen en esta práctica de aprendizaje.
+### Entre muchas otras etiquetas que se incluyen en esta práctica de aprendizaje. El resultado de la práctica se muestra dentro de los archivos practica1 y practica 2.
 
 ![HTML](images/HTML5.png)
